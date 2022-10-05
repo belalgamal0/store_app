@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "title": "Fjallraven",
+    "price": 100.00,
+    "description": "description",
+    "category": "men's clothing",
+    "image": "img",
+    "rating": {
+        "rate": 5.0,
+        "count": 10
+    }
+}
